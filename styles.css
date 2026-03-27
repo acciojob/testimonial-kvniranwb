@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+/* Individual testimonial box */
+.testimonial {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+/* Testimonial text */
+.text {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+/* Author styling */
+.author {
+    text-align: right;
+    font-style: italic;
+    color: #555;
+}
